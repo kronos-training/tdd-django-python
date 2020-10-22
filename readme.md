@@ -5,4 +5,6 @@ brew install geckodriver
 
 django-admin startproject superlists .
 
+python manage.py test
+
 ```
