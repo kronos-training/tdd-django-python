@@ -7,4 +7,7 @@ django-admin startproject superlists .
 
 python manage.py test
 
+python manage.py makemigrations
+
+
 ```
