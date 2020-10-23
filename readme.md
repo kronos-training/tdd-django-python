@@ -13,5 +13,6 @@ python manage.py migrate
 
 python manage.py migrate --noinput
 
+ python manage.py test functional_tests
 
 ```
